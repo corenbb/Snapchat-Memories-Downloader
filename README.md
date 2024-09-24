@@ -8,7 +8,7 @@ https://help.snapchat.com/hc/en-us/articles/7012305371156-How-do-I-download-my-d
 
 ### Using the script
 Requirements: Node, Python3, pip.
-1. Download the .zip file containing your data from snapchat.
+1. Download the .zip file containing your data from Snapchat.
 2. Extract the 'memories_history.json' file.
 3. Place the 'memories_history.json' file in a folder with these scripts.
 4. Run the 'generate_aws.js' file to get the S3 links from the .json directory.
