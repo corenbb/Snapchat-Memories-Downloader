@@ -1,4 +1,5 @@
 // This generates the AWS links which you need to download your memories
+// This JS script was written by @evanugarte on GitHub for a similair tool: https://github.com/evanugarte/snapchat-memories-downloader
 
 const axios = require('axios')
 const fs = require('fs')
